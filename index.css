@@ -1,0 +1,39 @@
+#margin {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 2.75in;
+    width: 2.75in;
+}
+
+#text-box {
+    margin-top: 2.5%;
+    padding: 1%;
+    height: 50%;
+    text-align: center;
+}
+
+#nickname {
+    font-size: 60px;
+    font-family: Arial;
+    color:black;
+
+}
+#name {
+    font-size: 45px;
+    font-family: Arial ;
+    color: black;;
+}
+body {
+    background-image: url("genshin.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:auto;
+    width: 100% auto;
+    height: 100% auto;
+}
+
+#text{
+    font-size: 30px;
+    text-align: center;
+}
